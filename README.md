@@ -7,7 +7,7 @@ I'm a full-stack developer that's been developing on the web for three years, bo
 
 ## 🛠 Skills
 
-HTML | CSS | Bootstrap | JavaScript | React.js | Node.js |Express.js |PostgreSQL | Notion
+HTML | CSS | Bootstrap | JavaScript | React.js | Node.js | Express.js | PostgreSQL | Notion
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.patriciosalazar.dev/)
@@ -18,6 +18,7 @@ Check out this project I made! It's a full stack contact management app:
 )](https://www.touchbaseapp.co/)
 
 #
-
-![Logo](https://www.patriciosalazar.dev/img/dev_logo.png)
+<p align="center">
+  ![Logo](https://www.patriciosalazar.dev/img/dev_logo.png)
+</p>
 
