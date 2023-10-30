@@ -18,7 +18,6 @@ Check out this project I made! It's a full stack contact management app:
 )](https://www.touchbaseapp.co/)
 
 #
-<div style="text-align:center">
-  ![Logo](https://www.patriciosalazar.dev/img/dev_logo.png)
-</div>
+
+![Logo](https://www.patriciosalazar.dev/img/dev_logo.png)
 
