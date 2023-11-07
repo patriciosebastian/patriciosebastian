@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a full-stack developer that's been developing on the web for three years, both on the job and independently.
+Full-stack JS dev
 
 
 ## 🛠 Skills
