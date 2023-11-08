@@ -7,7 +7,7 @@ Full-stack JS dev
 
 ## 🛠 Skills
 
-HTML | CSS | Bootstrap | JavaScript | React.js | Node.js | Express.js | PostgreSQL | Notion
+HTML | CSS | Bootstrap | JavaScript | React.js | Node.js | Express.js | PostgreSQL
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.patriciosalazar.dev/)
