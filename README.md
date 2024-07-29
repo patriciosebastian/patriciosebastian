@@ -2,12 +2,12 @@
 
 
 ## 🚀 About Me
-Full-stack JS dev
+Full-stack software developer
 
 
 ## 🛠 Skills
 
-HTML | CSS | Bootstrap | JavaScript | React.js | Node.js | Express.js | PostgreSQL
+HTML | CSS | Bootstrap | TailwindCSS | JavaScript | React.js | Node.js | Express.js | PostgreSQL | PHP | Laravel
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.patriciosalazar.dev/)
