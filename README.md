@@ -7,10 +7,10 @@ Full-stack software developer
 
 ## 🛠 Skills
 
-HTML | CSS | Bootstrap | TailwindCSS | JavaScript | React.js | Node.js | Express.js | PostgreSQL | PHP | Laravel
+HTML | CSS | Bootstrap | TailwindCSS | JavaScript | React.js | Node.js | Express.js | Next.js | Livewire | PostgreSQL | PHP | Laravel
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.patriciosalazar.dev/)
+[![portfolio](https://img.shields.io/badge/my_portfolio_and_personal_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://patriciosalazar.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciosalazardev/)
 
 Check out this project I made! It's a full stack contact management app:  
@@ -18,6 +18,4 @@ Check out this project I made! It's a full stack contact management app:
 )](https://www.touchbaseapp.co/)
 
 #
-
-![Logo](https://www.patriciosalazar.dev/img/dev_logo.png)
 
