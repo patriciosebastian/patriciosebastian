@@ -1,21 +1,36 @@
+
 # Hi, I'm Patricio Salazar! 👋
 
+I'm a full-stack software developer at Empire Medical. On-and-off the job, I primarily work with tools like **Laravel**, **Livewire**, **Next.js**, and **Tailwind CSS**.
 
-## 🚀 About Me
-Full-stack software developer
+On the side, I work on side projects of all kinds. That could be web apps, tools, creative work, working with audio, writing, or even trying new fitness challenges, or working with my hands on something. My curiosity has no limits.
 
+## 🛠 Tech
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
+ - **Full-Stack:** Livewire, Next.js
+- **Backend:** Node.js, Express.js, PHP, Laravel
+- **Database:** PostgreSQL
+- **Tooling:** Git/GitHub, Postman, VS Code, Atlassian, Slack, Notion
 
-## 🛠 Skills
+## 🌐 Featured Projects
+- **[git-highlight](https://patriciosebastian.github.io/git-highlight-website/)**: A real-time Git command typo highlighter for Zsh.
+- **[YNBI](https://yournextbusinessidea.app/)**: An application that helps you decide your next business idea, and analyses it.
+- **[Doubles](https://playdoubles.org/)**: An addictive, number doubling game.
+- **[Touch Base](https://www.touchbaseapp.co/)**: A full-stack contact management app.
+- **[ClearCalc](https://www.clearcalc.app/)**: A collection of Personal Finance tools written in JavaScript.
 
-HTML | CSS | Bootstrap | TailwindCSS | JavaScript | React.js | Node.js | Express.js | Next.js | Livewire | PostgreSQL | PHP | Laravel
+## ✍️ Blog & Writing
+I occasionally write about side projects I work on and whatever else is on my mind:
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio_and_personal_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://patriciosalazar.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciosalazardev/)
+- **[Latest Post: "How I Added CSV Importing In My React-Node.js Project"](https://www.patriciosalazar.dev/blog/how-i-added-csv-importing-in-my-react-project)**
+- [Explore more posts](https://www.patriciosalazar.dev/blog)
 
-Check out this project I made! It's a full stack contact management app:  
-[![Touch Base](https://img.shields.io/badge/--%23ffdab9?logoColor=%20&label=Touch%20Base&labelColor=%236e6bee&link=https%3A%2F%2Fwww.touchbaseapp.co
-)](https://www.touchbaseapp.co/)
+## 🎧 Beyond Code
+Outside of code, I’m experimenting with making my own hot sauce 🌶️ and enjoy working with audio (I have an audio engineering degree!). I also love curating playlists that help developers get into the flow. Here, I made these for you:
 
-#
+- [Hello World - beats to code to](https://open.spotify.com/playlist/77hkmQ7eTgfvpjPXDPjSRT?si=ckGhVKy0RxueNSB0dYycQw)
+- [Hello World 2 - beats to code to](https://open.spotify.com/playlist/3TWuzDL7v8DKhcFatC1g8D?si=yb19DuvpT66mzAXiCUXhew)
 
+## 🔗 Get in Touch
+- **Personal Website:** [patriciosalazar.dev](https://www.patriciosalazar.dev/)
+- **LinkedIn:** [linkedin.com/in/patriciosalazardev/](https://www.linkedin.com/in/patriciosalazardev/)
