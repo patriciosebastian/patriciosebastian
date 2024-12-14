@@ -22,7 +22,7 @@ On the side, I work on side projects of all kinds. That could be web apps, tools
 ## ✍️ Blog & Writing
 I occasionally write about side projects I work on and whatever else is on my mind:
 
-- **[Latest Post: "How I Added CSV Importing In My React-Node.js Project"](https://www.patriciosalazar.dev/blog/how-i-added-csv-importing-in-my-react-project)**
+- **[Latest Post: "Getting My First Users From Building Something Unexpected"](https://www.patriciosalazar.dev/blog/getting-my-first-users-from-building-something-unexpected)**
 - [Explore more posts](https://www.patriciosalazar.dev/blog)
 
 ## 🎧 Beyond Code
