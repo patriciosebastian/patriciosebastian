@@ -26,7 +26,7 @@ I occasionally write about side projects I work on and whatever else is on my mi
 - [Explore more posts](https://www.patriciosalazar.dev/blog)
 
 ## 🎧 Beyond Code
-Outside of code, I’m experimenting with making my own hot sauce 🌶️ and enjoy working with audio (I have an audio engineering degree!). I also love curating playlists that help developers get into the flow. Here, I made these for you:
+Outside of code, ~~I’m experimenting with making my own hot sauce 🌶️~~(Update: not anymore. Squirrels ate my pepper plants) and enjoy working with audio (I have an audio engineering degree!). I also love curating playlists that help developers get into the flow. Here, I made these for you:
 
 - [Hello World - beats to code to](https://open.spotify.com/playlist/77hkmQ7eTgfvpjPXDPjSRT?si=ckGhVKy0RxueNSB0dYycQw)
 - [Hello World 2 - beats to code to](https://open.spotify.com/playlist/3TWuzDL7v8DKhcFatC1g8D?si=yb19DuvpT66mzAXiCUXhew)
