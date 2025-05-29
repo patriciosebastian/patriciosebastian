@@ -22,7 +22,7 @@ On the side, I work on side projects of all kinds. That could be web apps, tools
 ## ✍️ Blog & Writing
 I occasionally write about side projects I work on and whatever else is on my mind:
 
-- **[Latest Post: "How to Use Laravel Sail with Docker for PHP 8.2 (No Global PHP Upgrade Needed"](https://patriciosalazar.dev/blog/laravel-sail-docker-php82-without-system-upgrade)**
+- **[Latest Post: "You Don't Need A Framework - Build A Dynamic Blog with HTML & Vanilla JavaScript"](https://patriciosalazar.dev/blog/you-dont-need-a-framework)**
 - [Explore more posts](https://www.patriciosalazar.dev/blog)
 
 ## 🎧 Beyond Code
