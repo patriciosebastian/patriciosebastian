@@ -2,7 +2,8 @@
 # Hi, I'm Patricio Salazar
 
 I'm a full-stack software developer at Empire Medical.
-At work, I use tools like **Laravel**, **Livewire**, **Alpine.js**, **MySQL**, and **Tailwind CSS**.
+
+At work, I use tools like **Laravel**, **Livewire**, **Alpine.js**, **MySQL**, and **Tailwind CSS**.<br>
 In my personal work I use **Laravel**, **Inertia**, **React**, and **Tailwind** OR the **PERN** stack depending on the project.
 
 I work on side projects of all kinds. That could be web apps, tiny dev tools, or something totally different. My curiosity has no limits.
