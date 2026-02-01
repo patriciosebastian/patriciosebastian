@@ -1,16 +1,18 @@
 
-# Hi, I'm Patricio Salazar! 👋
+# Hi, I'm Patricio Salazar
 
-I'm a full-stack software developer at Empire Medical. On-and-off the job, I primarily work with tools like **Laravel**, **Livewire**, **Next.js**, and **Tailwind CSS**.
+I'm a full-stack software developer at Empire Medical.
+At work, I use tools like **Laravel**, **Livewire**, **Alpine.js**, **MySQL**, and **Tailwind CSS**.
+In my personal work I use **Laravel**, **Inertia**, **React**, and **Tailwind** OR the **PERN** stack depending on the project.
 
-On the side, I work on side projects of all kinds. That could be web apps, tools, creative work, working with audio, writing, or even trying new fitness challenges, or working with my hands on something. My curiosity has no limits.
+I work on side projects of all kinds. That could be web apps, tiny dev tools, or something totally different. My curiosity has no limits.
 
 ## 🛠 Tech
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
- - **Full-Stack:** Livewire, Next.js
-- **Backend:** Node.js, Express.js, PHP, Laravel
-- **Database:** PostgreSQL
-- **Tooling:** Git/GitHub, Postman, VS Code, Atlassian, Slack, Notion
+- **Languages:** JavaScript, PHP
+- **UI & Frontend:** Tailwind, React, Inertia
+- **Backend & Frameworks:** Node.js, Express, Laravel, Livewire
+- **Database & Tooling:** PostgreSQL, Git/GitHub, Atlassian, Sentry, Slack, Notion
+- **AI:** Claude Code, GitHub Copilot
 
 ## 🌐 Featured Projects
 - **[git-highlight](https://patriciosebastian.github.io/git-highlight-website/)**: A real-time Git command typo highlighter for Zsh.
